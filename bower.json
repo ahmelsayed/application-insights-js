@@ -1,0 +1,17 @@
+{
+  "name": "application-insights",
+  "authors": [
+    "Ahmed ElSayed <ahmels@microsoft.com>"
+  ],
+  "description": "",
+  "main": "lib/ai.0.22.19-build00125.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
